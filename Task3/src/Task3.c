@@ -9,6 +9,8 @@ const int pi = 180;
 
 void showTable(double *);
 
+
+// Добавил make file с опцией для линковщика, чтобы подключить мат. функции
 int main(void) {
 
 	double sinTable[period];
